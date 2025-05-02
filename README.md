@@ -37,4 +37,4 @@ Each result card includes:
 
 * Map View toggle (if available)
 * “Save to Wishlist” (Login Required)
-* Mobile View Optimizations: Sticky filters & fast card loading
+
